@@ -1,0 +1,382 @@
+
+* -[title="Tituloinde"]
+{
+	font-family: arial;
+	font-size: 15px;
+}
+body
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: 0px;
+}
+div.head
+{
+	height: 132px;
+	margin-left: 136px;
+    margin-right: 106px;
+
+
+}
+div.head img
+{
+	width: 315px;
+	
+}
+
+ul.Mhorizontal
+{
+	background-color: #004669;
+	height: 40px;
+	/*width: 100%;¨*/
+	margin-bottom: 10px;
+	padding-left: 81px;
+	
+
+}
+
+ul.Mhorizontal li
+{
+	display: block;
+	float: left;
+	/*padding: 0 10px;*/
+	background-color: #004669;
+	color: #ffffff;
+	/*margin-right:226px;*/
+	/*margin-left: 48px;*/	
+	/*width: 165px;*/
+	/*padding-left: 37px;*/	
+	/*height: 33px;*/
+	display: inline-block;
+	text-align: center;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+ul.Mhorizontal li a
+{
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+	padding-left: 58px;
+	padding-right: 58px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+ul.Mhorizontal li:Hover
+{
+	background-color: #000000;
+	/*height: 40px;*/
+	 background: rgb(231,178,0);
+	 color: #3a7999;
+	 box-shadow: inset 0 0 0 3px #3a7999;
+	 transition: all 2s ease;
+
+
+
+	
+}
+
+div.main
+{
+	position: static;
+	margin-left: 136px;
+    margin-right: 106px;
+    height: 616px;
+    margin-top: 46px;
+
+
+}
+
+div.Nav
+{
+	position: static;
+	background-color: #004669;
+	height: 573px;
+	width: 250px;
+	position: absolute;
+
+}
+div.Nav h3.contador
+{
+	padding-left: 46px;
+	margin-bottom: 5px;
+	color: #ffffff;
+}
+div.Nav a img
+{
+	width: 127px;
+	height: 63px;
+	margin-left: 62px;
+	margin-right: 62px;
+	
+
+}
+
+div.segundo img.ImgIndex
+{
+	width: 100px;
+	height: 100px;
+	margin: 18px 75px 31px 75px;
+	float: left;
+	padding-top: 38px;
+	margin-top: 0px;
+	margin-right: 31px;
+	margin-bottom: 13px;
+
+}
+div.segundo
+{
+	position: static;
+	
+	margin-left: 297px;
+	width: 810px;
+	height: 573px;
+	background-color: rgb(231,178,0);
+	box-shadow: 10px 10px 5px #004669;
+	
+}
+div.segundo p
+{
+	color: #000000;
+	padding-left: 65px;
+	padding-right: 65px;
+	padding-top: 34px;
+}
+
+div.segundo p.fuente
+{
+	padding-left: 235px;
+}
+
+h2.Tituloinde
+{
+	padding-left: 47px;
+	padding-top: 48px;
+}
+footer
+{
+	background-color: #000000;
+	height: 155px;
+}
+
+/* Pagina de video 1 */
+
+div.video1
+{
+	margin-left: 293px;
+	height: 300px;
+	width: 865px;
+}
+
+div.video1 iframe
+{
+	width: 411px;
+	height: 235px;
+}
+
+footer
+{
+	background: linear-gradient(rgb(231,178,0), #004669);
+}
+
+div.RedesUnad
+{
+	bottom: 0;
+	right: 0;	
+	width: 400px;
+	height: 118px;
+	float: right;
+	margin-top: 39px;
+
+}
+
+div.RedesUnad h3.iconosUnd
+{
+	width: 209px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 4.717px;
+	padding-left: 89px;
+	padding-bottom: 0px;	
+
+}
+div.RedesUnad h2.textredes
+{
+	margin-bottom: 0px;
+	padding-bottom: 6px;
+	padding-left: 127px;
+	margin-top: 0px;
+}
+
+div.RedesUnad img
+{
+	border-style: solid;
+	border-color: #000000;
+	
+}
+
+div.RedesUnad img:Hover
+{
+	border-style: solid;
+	border-color: #ffffff;
+	background-color: #ffffff;
+	transition: all 1s ease;
+	
+}
+
+img.facebookUnad
+{
+	width: 50px;
+	height:50px;
+	margin-left: 10px;
+	
+}
+
+img.twitterUnad
+{
+	width: 50px;
+	height:50px;
+	margin-left: 10px;
+}
+img.instagramUnad
+{
+	width: 50px;
+	height:50px;
+	margin-left: 10px;
+}
+
+div.Video1
+{
+
+	padding-top: 34px;
+	height: 316.5px;
+	width: 563px;
+	padding-left: 123px;
+	padding-right: 124px;
+
+}
+
+div.Video2
+{
+
+
+	height: 316.5px;
+	width: 563px;
+	padding-left: 123px;
+	padding-right: 124px;
+	padding-top: 51px;
+
+}
+
+h2.Isov1
+{
+	padding-left: 337px;
+    padding-right: 337px;
+    padding-top: 44px;
+    color: #004669;
+
+}
+
+div.Text1
+{
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+}
+
+h1.Iso1
+{
+	padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 24px;
+    margin-bottom: 0px;
+
+
+}
+
+div.Text1 img
+{
+	width: 100px;
+	height: 100px;
+	margin: 18px 75px 31px 75px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 31px;
+	margin-bottom: 13px;
+	padding-top: 34px;	
+	margin-left: 43px;
+}
+
+div.Text1 p
+{
+	margin-bottom: 0px;
+	padding-top: 24px;
+	margin-top: 0px;
+}
+
+div.Text1 ul
+{
+	margin-top: 0px;
+}
+
+ul.Listtext2
+{
+	padding-left: 114px;
+}
+
+div.segundo > p.segundoP
+{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+div.segundo h2.Iso9126
+{
+	padding-left: 337px;
+    padding-right: 337px;
+    padding-top: 44px;
+    color: #004669;
+}
+
+div.creador
+{
+	width: 400px;
+	position: absolute;
+	padding-left: 184px;
+}
+h2.ConoCrea
+{
+	margin-bottom: 18px;
+	padding-top: 30px;
+	
+}
+
+div.creador a
+{
+	
+    text-decoration: none;
+	padding-left: 67px;
+	color:rgb(231,178,0);
+
+
+}
+
+/*Pagina Creador*/
+
+img.CreadorImg
+{
+	width: 150px;
+	height: 150px;
+	padding-left: 332px;
+	padding-top: 60px;
+}
+
+ul.DatosCreador
+{
+	padding-left: 297px;
+}
